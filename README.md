@@ -1,2 +1,2 @@
 # harshit-bokade
-i have made chess board using HTML
+some of the work done on HTML are given above in the list
